@@ -1,7 +1,7 @@
-pyrofork==2.2.11
+pyrogram<=2.0.33
 tgcrypto<=1.2.3
 aiohttp<=3.8.1
-python-dotenv<=0.20.0
+Python 3.9.13
 motor
 aiofiles
 dnspython
@@ -9,7 +9,3 @@ apscheduler
 requests
 psutil
 pyromod
-colorama
-jinja2
-Flask<= 3.0.0
-gunicorn<= 21.2.0
